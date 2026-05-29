@@ -1,6 +1,7 @@
 [submodule "extern/borealis"]
 	path = extern/borealis
 	url = https://github.com/plrusek/borealis.git
+	branch = swap_joydual_gyro
 [submodule "extern/moonlight-common-c"]
 	path = extern/moonlight-common-c
 	url = https://github.com/XITRIX/moonlight-common-c.git
